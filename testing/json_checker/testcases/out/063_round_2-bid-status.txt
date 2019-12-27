@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "vacancy": 4,
+    "min-bid-amount": 12,
+    "students": [
+        {
+            "userid": "eddy.ng.2009",
+            "amount": 13,
+            "balance": 187,
+            "status": "success"
+        },
+        {
+            "userid": "parker.ng.2009",
+            "amount": 13,
+            "balance": 163,
+            "status": "success"
+        },
+        {
+            "userid": "calvin.ng.2009",
+            "amount": 11,
+            "balance": 189,
+            "status": "success"
+        },
+        {
+            "userid": "dawn.ng.2009",
+            "amount": 11,
+            "balance": 189,
+            "status": "success"
+        },
+        {
+            "userid": "ben.ng.2009",
+            "amount": 10,
+            "balance": 190,
+            "status": "fail"
+        }
+    ]
+}

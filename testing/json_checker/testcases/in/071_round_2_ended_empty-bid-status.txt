@@ -1,0 +1,3 @@
+--- start --- 
+r={"course":"IS101","section":"S1"}
+-- end ---

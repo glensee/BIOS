@@ -1,0 +1,109 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 22
+        },
+        {
+            "course.csv": 22
+        },
+        {
+            "course_completed.csv": 3
+        },
+        {
+            "prerequisite.csv": 4
+        },
+        {
+            "section.csv": 30
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "course.csv",
+            "line": 5,
+            "message": [
+                "invalid description"
+            ]
+        },
+        {
+            "file": "course.csv",
+            "line": 11,
+            "message": [
+                "invalid description"
+            ]
+        },
+        {
+            "file": "course_completed.csv",
+            "line": 4,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 3,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 4,
+            "message": [
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 5,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "prerequisite.csv",
+            "line": 6,
+            "message": [
+                "invalid prerequisite"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 10,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 11,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 12,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 22,
+            "message": [
+                "invalid course"
+            ]
+        },
+        {
+            "file": "section.csv",
+            "line": 23,
+            "message": [
+                "invalid course"
+            ]
+        }
+    ]
+}
